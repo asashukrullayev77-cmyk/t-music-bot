@@ -1,0 +1,5 @@
+music-bot/
+├── bot.py              # Asosiy bot kodi
+├── requirements.txt    # Python kutubxonalari
+├── Dockerfile          # Railwayda ishlatish uchun
+└── README.md           # Loyiha haqida ma'lumot (ixtiyoriy)
